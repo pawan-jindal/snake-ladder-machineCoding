@@ -3,6 +3,10 @@
 * Snake and ladder game for Machine coding round.
 * It will focus on the design of a Snake and ladder game like Ludo and others. But this design will be a much smaller scale.
 
+### About Code ###
+* Implemented using core-Java, so flow will be run at Terminal/console.
+* RunnerClass.java: Is the driver/runner file or starting point of the service/code.
+
 ### Requirements of snake and ladder application ###
 Let’s first understand the requirements and rules.
 
@@ -33,7 +37,3 @@ The application should take as input (from the command line or a file).
 * There won’t be a snake at 100.
 * There won’t be multiple snakes/ladders at the same start/head point.
 * It is possible to reach 100, i.e., it is possible to win the game.
-
-### About Code ###
-* Implemented using core-Java, so flow will be run at Terminal/console.
-* RunnerClass.java: Is the driver/runner file or starting point of the service/code.
